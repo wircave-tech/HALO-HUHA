@@ -5,4 +5,4 @@ NIM : 125202042
 Jurusan : Sistem Informasi
 Minat : Teknologi, Cyber Security
 
-saya belajar git dan github
+saya sedang belajar git dan github
